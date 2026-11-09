@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "﻿Tab Tab",
+        "artist": "﻿Flenn",
+        "album": "﻿Moudja",
+        "duration": 195648,
+        "path": "tracks/Flenn - Tab Tab(MP3_70K).mp3",
+        "artwork": "artwork/Flenn - Tab Tab(MP3_70K).jpg"
+    },
+    {
+        "id": "2",
+        "title": "﻿Ra'Cha",
+        "artist": "﻿Flenn",
+        "album": "﻿Ra'Cha",
+        "duration": 98664,
+        "path": "tracks/Ra_Cha(MP3_70K).mp3",
+        "artwork": "artwork/Ra_Cha(MP3_70K).jpg"
+    }
+]

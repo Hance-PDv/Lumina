@@ -1,6 +1,6 @@
 [
     {
-        "id": "3",
+        "id": "4",
         "title": "﻿Tab Tab",
         "artist": "﻿Flenn",
         "album": "﻿Moudja",
@@ -9,7 +9,7 @@
         "artwork": "artwork/Flenn - Tab Tab(MP3_70K).jpg"
     },
     {
-        "id": "4",
+        "id": "5",
         "title": "﻿Ra'Cha",
         "artist": "﻿Flenn",
         "album": "﻿Ra'Cha",
@@ -18,12 +18,21 @@
         "artwork": "artwork/Ra_Cha(MP3_70K).jpg"
     },
     {
-        "id": "3",
+        "id": "4",
         "title": "﻿ZOMBIE",
         "artist": "﻿Lazaro",
         "album": "﻿ZOMBIE",
         "duration": 183024,
         "path": "tracks/LAZARO - ZOMBIE (Official Music Video)(MP3_70K).mp3",
         "artwork": "artwork/LAZARO - ZOMBIE (Official Music Video)(MP3_70K).jpg"
+    },
+    {
+        "id": "4",
+        "title": "﻿Потому что так надо",
+        "artist": "﻿SABI",
+        "album": "﻿Потому что так надо",
+        "duration": 141528,
+        "path": "tracks/SABI - Потому что так надо (Official Audio)(MP3_70K).mp3",
+        "artwork": "artwork/SABI - Потому что так надо (Official Audio)(MP3_70K).jpg"
     }
 ]

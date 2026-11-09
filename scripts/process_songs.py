@@ -28,17 +28,6 @@ def save_songs(songs_list):
     with open(JSON_FILE, "w", encoding="utf-8") as f:
         json.dump(songs_list, f, ensure_ascii=False, indent=4)
 
-def get_next_id(songs_list):
-    max_id = 0
-    for song in songs_list:
-        try:
-            song_id = int(song.get("id", 0))
-            if song_id > max_id:
-                max_id = song_id
-        except (ValueError, TypeError):
-            continue
-    return max_id + 1
-
 def extract_cover_art(audio, base_filename):
     cover_bytes = None
     
@@ -110,15 +99,8 @@ def process():
             shutil.move(input_path, target_track_path)
             track_url = f"tracks/{target_track_filename}"
 
-            existing_index = next((i for i, s in enumerate(songs) if s.get("path") == track_url), -1)
-
-            if existing_index != -1:
-                assigned_id = songs[existing_index].get("id")
-            else:
-                assigned_id = str(get_next_id(songs))
-
             song_entry = {
-                "id": assigned_id,
+                "id": str(len(songs) + 1),
                 "title": title,
                 "artist": artist,
                 "album": album,
@@ -127,12 +109,13 @@ def process():
                 "artwork": artwork_url
             }
 
+            existing_index = next((i for i, s in enumerate(songs) if s.get("path") == track_url), -1)
             if existing_index != -1:
                 songs[existing_index] = song_entry
             else:
                 songs.append(song_entry)
 
-            print(f"Successfully processed: {title} - {artist} (ID: {assigned_id})")
+            print(f"Successfully processed: {title} - {artist}")
 
         except Exception as e:
             print(f"Error processing file {file_name}: {e}")

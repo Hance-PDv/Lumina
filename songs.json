@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": "3",
         "title": "﻿Tab Tab",
         "artist": "﻿Flenn",
         "album": "﻿Moudja",
@@ -9,12 +9,21 @@
         "artwork": "artwork/Flenn - Tab Tab(MP3_70K).jpg"
     },
     {
-        "id": "2",
+        "id": "4",
         "title": "﻿Ra'Cha",
         "artist": "﻿Flenn",
         "album": "﻿Ra'Cha",
         "duration": 98664,
         "path": "tracks/Ra_Cha(MP3_70K).mp3",
         "artwork": "artwork/Ra_Cha(MP3_70K).jpg"
+    },
+    {
+        "id": "3",
+        "title": "﻿ZOMBIE",
+        "artist": "﻿Lazaro",
+        "album": "﻿ZOMBIE",
+        "duration": 183024,
+        "path": "tracks/LAZARO - ZOMBIE (Official Music Video)(MP3_70K).mp3",
+        "artwork": "artwork/LAZARO - ZOMBIE (Official Music Video)(MP3_70K).jpg"
     }
 ]

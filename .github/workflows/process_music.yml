@@ -4,6 +4,10 @@ on:
   push:
     paths:
       - 'songs_input/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   process-audio:
@@ -32,6 +36,4 @@ jobs:
           git config --global user.name "Lumina Automation Bot"
           git config --global user.email "bot@lumina.app"
           git add artwork/ tracks/ songs.json
-          git status
-          git diff-index --quiet HEAD || git commit -m "auto: extract artwork & update songs.json"
-          git push
+          git diff-index --quiet HEAD || (git commit -m "auto: extract artwork & update songs.json" && git push)

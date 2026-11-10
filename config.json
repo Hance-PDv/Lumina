@@ -1,0 +1,7 @@
+{
+"min_version_name": "1.0",
+"is_force_update": false,
+"title": "Small Update",
+"message": "New section has been added to the Home page, allowing you to explore songs directly.",
+"update_url": "https://hance-pdv.github.io/mflow-web/"
+}

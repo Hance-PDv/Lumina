@@ -1,6 +1,6 @@
 [
     {
-        "id": "5",
+        "id": "6",
         "title": "﻿Tab Tab",
         "artist": "﻿Flenn",
         "album": "﻿Moudja",
@@ -9,7 +9,7 @@
         "artwork": "artwork/Flenn - Tab Tab(MP3_70K).jpg"
     },
     {
-        "id": "6",
+        "id": "7",
         "title": "﻿Ra'Cha",
         "artist": "﻿Flenn",
         "album": "﻿Ra'Cha",
@@ -18,7 +18,7 @@
         "artwork": "artwork/Ra_Cha(MP3_70K).jpg"
     },
     {
-        "id": "5",
+        "id": "7",
         "title": "﻿ZOMBIE",
         "artist": "﻿Lazaro",
         "album": "﻿ZOMBIE",
@@ -27,7 +27,7 @@
         "artwork": "artwork/LAZARO - ZOMBIE (Official Music Video)(MP3_70K).jpg"
     },
     {
-        "id": "6",
+        "id": "7",
         "title": "﻿Потому что так надо",
         "artist": "﻿SABI",
         "album": "﻿Потому что так надо",
@@ -36,12 +36,21 @@
         "artwork": "artwork/SABI - Потому что так надо (Official Audio)(MP3_70K).jpg"
     },
     {
-        "id": "5",
+        "id": "7",
         "title": "﻿Espresso",
         "artist": "﻿Sabrina Carpenter",
         "album": "﻿Espresso",
         "duration": 200544,
         "path": "tracks/Sabrina Carpenter - Espresso(MP3_70K).mp3",
         "artwork": "artwork/Sabrina Carpenter - Espresso(MP3_70K).jpg"
+    },
+    {
+        "id": "6",
+        "title": "﻿Nice To Meet Ya",
+        "artist": "﻿Wes Nelson, Yxng Bane",
+        "album": "﻿Nice To Meet Ya (Stripped)",
+        "duration": 181896,
+        "path": "tracks/Wes Nelson - Nice To Meet Ya ft. Yxng Bane (Official Video)(MP3_70K).mp3",
+        "artwork": "artwork/Wes Nelson - Nice To Meet Ya ft. Yxng Bane (Official Video)(MP3_70K).jpg"
     }
 ]

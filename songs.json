@@ -1,6 +1,6 @@
 [
     {
-        "id": "12",
+        "id": "14",
         "title": "﻿Tab Tab",
         "artist": "﻿Flenn",
         "album": "﻿Moudja",
@@ -9,7 +9,7 @@
         "artwork": "artwork/Flenn - Tab Tab(MP3_70K).jpg"
     },
     {
-        "id": "12",
+        "id": "14",
         "title": "﻿Ra'Cha",
         "artist": "﻿Flenn",
         "album": "﻿Ra'Cha",
@@ -18,7 +18,7 @@
         "artwork": "artwork/Ra_Cha(MP3_70K).jpg"
     },
     {
-        "id": "12",
+        "id": "14",
         "title": "﻿ZOMBIE",
         "artist": "﻿Lazaro",
         "album": "﻿ZOMBIE",
@@ -27,7 +27,7 @@
         "artwork": "artwork/LAZARO - ZOMBIE (Official Music Video)(MP3_70K).jpg"
     },
     {
-        "id": "12",
+        "id": "14",
         "title": "﻿Потому что так надо",
         "artist": "﻿SABI",
         "album": "﻿Потому что так надо",
@@ -36,7 +36,7 @@
         "artwork": "artwork/SABI - Потому что так надо (Official Audio)(MP3_70K).jpg"
     },
     {
-        "id": "12",
+        "id": "14",
         "title": "﻿Espresso",
         "artist": "﻿Sabrina Carpenter",
         "album": "﻿Espresso",
@@ -45,7 +45,7 @@
         "artwork": "artwork/Sabrina Carpenter - Espresso(MP3_70K).jpg"
     },
     {
-        "id": "12",
+        "id": "14",
         "title": "﻿Nice To Meet Ya",
         "artist": "﻿Wes Nelson, Yxng Bane",
         "album": "﻿Nice To Meet Ya (Stripped)",
@@ -54,7 +54,7 @@
         "artwork": "artwork/Wes Nelson - Nice To Meet Ya ft. Yxng Bane (Official Video)(MP3_70K).jpg"
     },
     {
-        "id": "7",
+        "id": "13",
         "title": "﻿A.L.A - Ça Passe Feat. Didine canon 16 (Official Visualizer)",
         "artist": "﻿A.L.A",
         "album": "﻿A.L.A",
@@ -63,7 +63,7 @@
         "artwork": "artwork/A.L.A - Ça Passe Feat. Didine canon 16 (Official Visualizer)(MP3_70K).jpg"
     },
     {
-        "id": "8",
+        "id": "14",
         "title": "﻿Calm Down (with Selena Gomez)",
         "artist": "﻿Rema, Selena Gomez",
         "album": "﻿Calm Down (with Selena Gomez)",
@@ -72,7 +72,7 @@
         "artwork": "artwork/Rema_ Selena Gomez - Calm Down (Official Music Video)(MP3_70K).jpg"
     },
     {
-        "id": "9",
+        "id": "14",
         "title": "﻿El Khatem",
         "artist": "﻿Didine Canon 16",
         "album": "﻿El Khatem",
@@ -81,7 +81,7 @@
         "artwork": "artwork/DIDINE CANON 16 - EL KHATEM _ الخاتم 💍(MP3_70K).jpg"
     },
     {
-        "id": "10",
+        "id": "14",
         "title": "﻿Dai Dai",
         "artist": "﻿Shakira, Burna Boy",
         "album": "﻿Dai Dai",
@@ -90,7 +90,7 @@
         "artwork": "artwork/Shakira_ Burna Boy - Dai Dai (Official Video)(MP3_70K).jpg"
     },
     {
-        "id": "11",
+        "id": "14",
         "title": "﻿One Shot X",
         "artist": "﻿Flenn",
         "album": "﻿One Shot X",
@@ -99,12 +99,21 @@
         "artwork": "artwork/Flenn - One Shot X(MP3_70K).jpg"
     },
     {
-        "id": "12",
+        "id": "14",
         "title": "﻿Flou",
         "artist": "﻿Flenn",
         "album": "﻿Flou",
         "duration": 225888,
         "path": "tracks/Flenn - Flou(MP3_70K).mp3",
         "artwork": "artwork/Flenn - Flou(MP3_70K).jpg"
+    },
+    {
+        "id": "13",
+        "title": "﻿KU LO SA - A COLORS SHOW",
+        "artist": "﻿Oxlade",
+        "album": "﻿KU LO SA - A COLORS SHOW",
+        "duration": 151008,
+        "path": "tracks/Oxlade - KU LO SA _ A COLORS SHOW(MP3_70K).mp3",
+        "artwork": "artwork/Oxlade - KU LO SA _ A COLORS SHOW(MP3_70K).jpg"
     }
 ]

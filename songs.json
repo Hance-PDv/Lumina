@@ -1,6 +1,6 @@
 [
     {
-        "id": "6",
+        "id": "12",
         "title": "﻿Tab Tab",
         "artist": "﻿Flenn",
         "album": "﻿Moudja",
@@ -9,7 +9,7 @@
         "artwork": "artwork/Flenn - Tab Tab(MP3_70K).jpg"
     },
     {
-        "id": "7",
+        "id": "12",
         "title": "﻿Ra'Cha",
         "artist": "﻿Flenn",
         "album": "﻿Ra'Cha",
@@ -18,7 +18,7 @@
         "artwork": "artwork/Ra_Cha(MP3_70K).jpg"
     },
     {
-        "id": "7",
+        "id": "12",
         "title": "﻿ZOMBIE",
         "artist": "﻿Lazaro",
         "album": "﻿ZOMBIE",
@@ -27,7 +27,7 @@
         "artwork": "artwork/LAZARO - ZOMBIE (Official Music Video)(MP3_70K).jpg"
     },
     {
-        "id": "7",
+        "id": "12",
         "title": "﻿Потому что так надо",
         "artist": "﻿SABI",
         "album": "﻿Потому что так надо",
@@ -36,7 +36,7 @@
         "artwork": "artwork/SABI - Потому что так надо (Official Audio)(MP3_70K).jpg"
     },
     {
-        "id": "7",
+        "id": "12",
         "title": "﻿Espresso",
         "artist": "﻿Sabrina Carpenter",
         "album": "﻿Espresso",
@@ -45,12 +45,66 @@
         "artwork": "artwork/Sabrina Carpenter - Espresso(MP3_70K).jpg"
     },
     {
-        "id": "6",
+        "id": "12",
         "title": "﻿Nice To Meet Ya",
         "artist": "﻿Wes Nelson, Yxng Bane",
         "album": "﻿Nice To Meet Ya (Stripped)",
         "duration": 181896,
         "path": "tracks/Wes Nelson - Nice To Meet Ya ft. Yxng Bane (Official Video)(MP3_70K).mp3",
         "artwork": "artwork/Wes Nelson - Nice To Meet Ya ft. Yxng Bane (Official Video)(MP3_70K).jpg"
+    },
+    {
+        "id": "7",
+        "title": "﻿A.L.A - Ça Passe Feat. Didine canon 16 (Official Visualizer)",
+        "artist": "﻿A.L.A",
+        "album": "﻿A.L.A",
+        "duration": 177072,
+        "path": "tracks/A.L.A - Ça Passe Feat. Didine canon 16 (Official Visualizer)(MP3_70K).mp3",
+        "artwork": "artwork/A.L.A - Ça Passe Feat. Didine canon 16 (Official Visualizer)(MP3_70K).jpg"
+    },
+    {
+        "id": "8",
+        "title": "﻿Calm Down (with Selena Gomez)",
+        "artist": "﻿Rema, Selena Gomez",
+        "album": "﻿Calm Down (with Selena Gomez)",
+        "duration": 239376,
+        "path": "tracks/Rema_ Selena Gomez - Calm Down (Official Music Video)(MP3_70K).mp3",
+        "artwork": "artwork/Rema_ Selena Gomez - Calm Down (Official Music Video)(MP3_70K).jpg"
+    },
+    {
+        "id": "9",
+        "title": "﻿El Khatem",
+        "artist": "﻿Didine Canon 16",
+        "album": "﻿El Khatem",
+        "duration": 161880,
+        "path": "tracks/DIDINE CANON 16 - EL KHATEM _ الخاتم 💍(MP3_70K).mp3",
+        "artwork": "artwork/DIDINE CANON 16 - EL KHATEM _ الخاتم 💍(MP3_70K).jpg"
+    },
+    {
+        "id": "10",
+        "title": "﻿Dai Dai",
+        "artist": "﻿Shakira, Burna Boy",
+        "album": "﻿Dai Dai",
+        "duration": 240144,
+        "path": "tracks/Shakira_ Burna Boy - Dai Dai (Official Video)(MP3_70K).mp3",
+        "artwork": "artwork/Shakira_ Burna Boy - Dai Dai (Official Video)(MP3_70K).jpg"
+    },
+    {
+        "id": "11",
+        "title": "﻿One Shot X",
+        "artist": "﻿Flenn",
+        "album": "﻿One Shot X",
+        "duration": 491064,
+        "path": "tracks/Flenn - One Shot X(MP3_70K).mp3",
+        "artwork": "artwork/Flenn - One Shot X(MP3_70K).jpg"
+    },
+    {
+        "id": "12",
+        "title": "﻿Flou",
+        "artist": "﻿Flenn",
+        "album": "﻿Flou",
+        "duration": 225888,
+        "path": "tracks/Flenn - Flou(MP3_70K).mp3",
+        "artwork": "artwork/Flenn - Flou(MP3_70K).jpg"
     }
 ]

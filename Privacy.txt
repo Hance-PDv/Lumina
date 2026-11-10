@@ -1,0 +1,53 @@
+Privacy Policy — Lumina
+
+Effective Date: November 9, 2026
+
+Lumina is an online music application for Android, developed by Hance. This policy describes how the application handles information, device permissions, and internet connectivity.
+
+1. Information & Permissions
+
+Lumina does not collect or store personally identifiable information. No account registration or personal details are required to access the application's core features.
+
+The application may request access to your device's audio files solely to access, organize, display, and play your local music library.
+
+2. Internet Connectivity
+
+Lumina uses an internet connection to access its online music library, stream supported tracks, retrieve music information, and provide the option to request songs for potential inclusion in the library.
+
+Internet connectivity is not intentionally used to transmit error reports, diagnostic data, usage analytics, or personal information.
+
+Your local music files and personal music library are never uploaded to external servers.
+
+3. Local Data Storage
+
+Your playlists, favorites, listening history, playback statistics, settings, and preferences are processed and stored locally on your device, depending on the features available in the application.
+
+This information remains under your control and is not synchronized with external servers.
+
+4. Third-Party Services & Data Sharing
+
+Lumina does not sell, rent, or share personal information with third parties for commercial or advertising purposes.
+
+The application does not include advertising networks or third-party tracking services.
+
+5. Data Retention & Control
+
+Application data is retained locally until you clear Lumina's data or uninstall the application. These actions may permanently remove locally stored playlists, settings, and preferences.
+
+Song requests submitted through the application are used to review requested music and consider it for inclusion in the music library. Such requests may be retained for this purpose.
+
+6. Children's Privacy
+
+Lumina does not knowingly collect personal information from children or other users.
+
+7. Policy Updates
+
+This policy may be updated to reflect changes in Lumina's features or privacy practices. Any revisions will be published with an updated effective date.
+
+8. Developer & Contact
+
+For privacy-related questions or inquiries, please contact:
+
+- Application: Lumina
+- Developer: Hance
+- Email: hance16x@gmail.com

@@ -1,7 +1,7 @@
 {
-"min_version_name": "1.1",
-"is_force_update": false,
-"title": "Major Update",
-"message": "New\n• YouTube Music Library: Adopted YouTube Music as the core library for browsing and streaming music.\n• YouTube Music Sync: Sign in to sync your personalized recommendations, listening history, and liked songs.\n• Smarter Search: Improved search accuracy to show the closest matches faster without random suggestions.\n\nFix\n• Fixed various bugs and improved overall app performance and stability.\n\nCompatibility\n• Android 13 or later is required for this update.",
-"update_url": "https://hance-pdv.github.io/mflow-web/"
+  "min_version_name": "1.2",
+  "is_force_update": false,
+  "title": "New Update",
+  "message": "New\n• Expanded Compatibility: Supports Android 8 through Android 17+.\n• Adaptive Audio Quality: Updated player with selectable streaming quality to match your internet speed.\n\nImprovements\n• Refined the design on Android 11 and below.\n• Fixed bugs and improved overall performance and stability.",
+  "update_url": "https://hance-pdv.github.io/mflow-web/"
 }

@@ -1,7 +1,7 @@
 {
-  "min_version_name": "1.2",
+  "min_version_name": "1.2.1",
   "is_force_update": false,
-  "title": "New Update",
-  "message": "New\n• Expanded Compatibility: Supports Android 8 through Android 17+.\n• Adaptive Audio Quality: Updated player with selectable streaming quality to match your internet speed.\n\nImprovements\n• Refined the design on Android 11 and below.\n• Fixed bugs and improved overall performance and stability.",
+  "title": "Small Update",
+  "message": "Small Update\n\n• Fixed audio conflicts with other apps.\n• Fixed notification issues.",
   "update_url": "https://hance-pdv.github.io/mflow-web/"
 }

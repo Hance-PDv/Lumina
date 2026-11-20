@@ -2,6 +2,6 @@
   "min_version_name": "1.5.0",
   "is_force_update": false,
   "title": "New Update",
-  "message": "• Refreshed colors and overall app look for a cleaner, more cohesive visual experience.\n• Redesigned Home and Discovery screens with updated layouts for smoother browsing.\n• Redesigned the Search screen for a cleaner layout and easier discovery.\n• Smart offline downloads that reuse streamed audio instead of re-downloading from scratch.\n• Direct playback from saved offline tracks with zero extra mobile data usage.\n• Fixed display and layout glitches across the app for a smoother experience.",
+  "message": "• Redesigned the Local Music screen with a cleaner layout, smooth animations, a blue highlight for the active filter (All Tracks, Artists A-Z, Recent), bouncier scrolling, and live search and track counts.\n• Made playback start immediately when you tap a song so there is no delay before the music begins, while keeping your full queue ready smoothly in the background.\n• Improved overall app stability and upgraded the Stats screen so album covers load reliably, text displays cleanly, and everything updates smoothly.",
   "update_url": "https://hance-pdv.github.io/mflow-web/"
 }

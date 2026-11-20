@@ -48,6 +48,6 @@ This policy may be updated to reflect changes in Lumina's features or privacy pr
 
 For privacy-related questions or inquiries, please contact:
 
-- Application: Lumina
+- Application: Nox Sound 
 - Developer: Hance
 - Email: hance16x@gmail.com

@@ -1,7 +1,7 @@
 {
-  "min_version_name": "1.5.0",
+  "min_version_name": "1.5.1",
   "is_force_update": false,
   "title": "New Update",
-  "message": "• Redesigned the Local Music screen with a cleaner layout, smooth animations, a blue highlight for the active filter (All Tracks, Artists A-Z, Recent), bouncier scrolling, and live search and track counts.\n• Made playback start immediately when you tap a song so there is no delay before the music begins, while keeping your full queue ready smoothly in the background.\n• Improved overall app stability and upgraded the Stats screen so album covers load reliably, text displays cleanly, and everything updates smoothly.",
+  "message": "• Redesigned Local Music with cleaner layout, smooth animations, blue active filter (All Tracks, Artists A-Z, Recent), bouncier scroll, and live search and count.\n• Started playback right on tap with no delay, keeping your full queue ready in the background.\n• Improved stability and upgraded Stats so covers load reliably, text shows cleanly, and updates stay smooth.",
   "update_url": "https://hance-pdv.github.io/mflow-web/"
 }

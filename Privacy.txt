@@ -1,53 +1,55 @@
-Privacy Policy — Lumina
+Privacy Policy — Nox Sound
 
-Effective Date: November 9, 2026
+Effective Date: November 21, 2026
 
-Lumina is an online music application for Android, developed by Hance. This policy describes how the application handles information, device permissions, and internet connectivity.
+Nox Sound is an Android music application developed by Hance. This Privacy Policy explains how the application handles information, permissions, local data, and internet connectivity.
 
 1. Information & Permissions
 
-Lumina does not collect or store personally identifiable information. No account registration or personal details are required to access the application's core features.
+Nox Sound does not require account registration for its core features and does not intentionally collect personally identifiable information.
 
-The application may request access to your device's audio files solely to access, organize, display, and play your local music library.
+The application may request access to audio files on your device solely to scan, organize, display, and play your local music library.
 
-2. Internet Connectivity
+2. Google Sign-In
 
-Lumina uses an internet connection to access its online music library, stream supported tracks, retrieve music information, and provide the option to request songs for potential inclusion in the library.
+Nox Sound provides Google sign-in through Google's official authentication page.
 
-Internet connectivity is not intentionally used to transmit error reports, diagnostic data, usage analytics, or personal information.
+Login credentials are entered directly through Google's official interface and are not received, accessed, or stored by the developer. Nox Sound does not have access to your Google password.
 
-Your local music files and personal music library are never uploaded to external servers.
+3. Internet Connectivity
 
-3. Local Data Storage
+Nox Sound uses an internet connection to provide online music discovery, streaming, retrieve music information, and support downloading functionality.
 
-Your playlists, favorites, listening history, playback statistics, settings, and preferences are processed and stored locally on your device, depending on the features available in the application.
+Network requests may expose standard technical information required for communication, such as your IP address and request information.
 
-This information remains under your control and is not synchronized with external servers.
+Nox Sound does not intentionally transmit personal information, usage analytics, or diagnostic reports to the developer.
 
-4. Third-Party Services & Data Sharing
+4. Local Data Storage
 
-Lumina does not sell, rent, or share personal information with third parties for commercial or advertising purposes.
+Playlists, favorites, listening history, playback statistics, downloaded files, settings, and other preferences may be stored locally on your device, depending on the features you use.
 
-The application does not include advertising networks or third-party tracking services.
+This data is not synchronized with the developer's servers.
 
-5. Data Retention & Control
+5. Data Sharing
 
-Application data is retained locally until you clear Lumina's data or uninstall the application. These actions may permanently remove locally stored playlists, settings, and preferences.
+Nox Sound does not sell, rent, or intentionally share users' personal information for advertising or commercial purposes.
 
-Song requests submitted through the application are used to review requested music and consider it for inclusion in the music library. Such requests may be retained for this purpose.
+The application does not include advertising networks or intentionally implemented user-tracking systems.
 
-6. Children's Privacy
+6. Data Retention & User Control
 
-Lumina does not knowingly collect personal information from children or other users.
+Locally stored application data remains on your device until you remove it, clear the application's data, or uninstall Nox Sound.
 
-7. Policy Updates
+These actions may permanently delete playlists, favorites, listening history, settings, downloaded files, and other locally stored information.
 
-This policy may be updated to reflect changes in Lumina's features or privacy practices. Any revisions will be published with an updated effective date.
+Music requests submitted through the application may be retained and reviewed for music availability and potential library inclusion.
+
+7. Children's Privacy
+
+Nox Sound does not intentionally collect personal information from children.
 
 8. Developer & Contact
 
-For privacy-related questions or inquiries, please contact:
-
-- Application: Nox Sound 
-- Developer: Hance
-- Email: hance16x@gmail.com
+Application: Nox Sound
+Developer: Hance
+Contact: hance16x@gmail.com

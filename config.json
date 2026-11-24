@@ -1,7 +1,7 @@
 {
-  "min_version_name": "1.5.5",
+  "min_version_name": "1.7.0",
   "is_force_update": false,
   "title": "New Update",
-  "message": "• Restructured key pages with smoother animations and more responsive interactions.\n• Refined search matching to deliver cleaner, more accurate results.\n• Fixed duplicate caching to cut cache storage usage by 50%.\n• Applied general fixes and performance optimizations to the playback service.",
+  "message": "• Redesigned the player screen with a cleaner layout, smoother transitions, and snappier controls.\n• Increased stream cache capacity to 1 GB to keep more tracks ready for seamless playback.\n• Redesigned Download Manager for clearer organization and easier tracking.\n• Applied general fixes and performance optimizations to the playback service.",
   "update_url": "https://hance-pdv.github.io/mflow-web/"
 }

@@ -3,5 +3,5 @@
   "is_force_update": false,
   "title": "Small Update",
   "message": "• Fixed search page bugs and flicker issues, with smoother animations and more responsive interactions.\n\n• Added visual polish and overall improvements with better edge-to-edge full-screen compatibility.",
-  "update_url": "https://hance-pdv.github.io/mflow-web/"
+  "update_url": "https://hance-pdv.github.io/"
 }
